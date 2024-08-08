@@ -1,12 +1,12 @@
 {
-  "name": "consent629fm",
-  "version": "1.1.1",
+  "name": "kosmobot",
+  "version": "1.0.0",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "kosmolit",
+  "author": "2deus",
   "license": "ISC",
   "description": "",
   "dependencies": {
